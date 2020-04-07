@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d537b77c-2768-4c5a-8e0d-0cbb54849b69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1hUbZnloionC7KJQLos2ctEbm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blockchain/blockchain.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Bob">
+    <configuration name="Alice" type="PythonConfigurationType" factoryName="Python">
+      <module name="blockchain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Maneesh Reddy\PycharmProjects\blockchain\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8081" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bob" type="PythonConfigurationType" factoryName="Python">
+      <module name="blockchain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Maneesh Reddy\PycharmProjects\blockchain\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8082" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Node1" type="PythonConfigurationType" factoryName="Python">
+      <module name="blockchain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Maneesh Reddy\PycharmProjects\blockchain\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain/blockchain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Node1" />
+      <item itemvalue="Python.Alice" />
+      <item itemvalue="Python.Bob" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d537b77c-2768-4c5a-8e0d-0cbb54849b69" name="Default Changelist" comment="" />
+      <created>1585909023655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585909023655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585924168894">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585924168894" />
+    <state x="443" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585920892723">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="443" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1585920892723" />
+    <state x="498" y="130" key="FileChooserDialogImpl" timestamp="1585915025256">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="130" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585915025256" />
+    <state width="1509" height="210" key="GridCell.Tab.0.bottom" timestamp="1586157358418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1509" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586157358418" />
+    <state width="1509" height="210" key="GridCell.Tab.0.center" timestamp="1586157358418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1509" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586157358418" />
+    <state width="1509" height="210" key="GridCell.Tab.0.left" timestamp="1586157358418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1509" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586157358418" />
+    <state width="1509" height="210" key="GridCell.Tab.0.right" timestamp="1586157358418">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1509" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586157358418" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1585910600017">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585910600017" />
+    <state x="0" y="0" width="892" height="864" key="find.popup" timestamp="1586157442678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" width="892" height="864" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1586157442678" />
+  </component>
+</project>
