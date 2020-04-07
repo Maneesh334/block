@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d537b77c-2768-4c5a-8e0d-0cbb54849b69" name="Default Changelist" comment="" />
+    <list default="true" id="d537b77c-2768-4c5a-8e0d-0cbb54849b69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/blockchain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain/blockchain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/blockchain_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/css/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/css/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/css/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/css/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/js/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/DataTables/js/ellipsis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/font-awesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/font-awesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/templates/make_transaction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockchain_client/templates/view_transactions.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +48,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a1hUbZnloionC7KJQLos2ctEbm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
